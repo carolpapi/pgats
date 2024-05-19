@@ -1,0 +1,22 @@
+{
+  "name": "progauto",
+  "version": "1.0.0",
+  "description": "trabalho de conclusão da disciplina de programação para automação de testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolpapi/pgats.git"
+  },
+  "author": "Papi, Carol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolpapi/pgats/issues"
+  },
+  "homepage": "https://github.com/carolpapi/pgats#readme",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
